@@ -1,0 +1,125 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "gmail",
+        "label": "joshmartinroquetolentino@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:joshmartinroquetolentino@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+63 926 617 6522",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:+639266176522"
+      },
+      {
+        "type": "website",
+        "label": "GitHub",
+        "icon": "/images/icon/github-icon.svg",
+        "link": "https://github.com/joshjoshhh"
+      }
+    ],
+    "socialItems": [
+      {
+        "platform": "instagram",
+        "icon": "/images/icon/instagram-icon-png-instagram-icon-1600.svg",
+        "link": "https://www.instagram.com/jshhjoshh/"
+      },
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "https://www.linkedin.com/in/josh-roque-tolentino-172315374/"
+      },
+      {
+        "platform": "facebook",
+        "icon": "/images/icon/facebook-icon.svg",
+        "link": "https://www.facebook.com/jshhjoshh/"
+      }
+    ]
+  },
+  "educationData": {
+    "education": [
+      {
+        "title": "Polytechnic University of the Philippines – Parañaque Branch (2023 – Present)",
+        "description": "Currently pursuing a degree in Computer Engineering, focusing on programming, electronics, and system design. Gaining hands-on experience in software development, technical troubleshooting, and IT problem-solving."
+      },
+      {
+        "title": "Olivarez College – Junior High School (2021 – 2023)",
+        "description": "Completed junior high school education with emphasis on STEM subjects, computer literacy, and technical skills development."
+      },
+      {
+        "title": "Sto Niño High School (2017 – 2021)",
+        "description": "Developed foundational knowledge in mathematics, science, and technology, preparing for a career in engineering and IT-related fields."
+      },
+      {
+        "title": "Sto Niño Elementary School (2011 – 2017)",
+        "description": "Acquired essential learning skills, basic computer knowledge, and early exposure to problem-solving and teamwork."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Microsoft Excel",
+        "icon": "/images/home/education-skill/ms-excel-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "Microsoft Word",
+        "icon": "/images/home/education-skill/ms-word-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "Microsoft PowerPoint",
+        "icon": "/images/home/education-skill/ms-powerpoint-icon.svg",
+        "rating": 4
+      },
+      {
+        "name": "HTML & CSS",
+        "icon": "/images/home/education-skill/html-css-icon.png",
+        "rating": 4
+      },
+      {
+        "name": "Java Programming",
+        "icon": "/images/home/education-skill/java-icon.png",
+        "rating": 4
+      },
+      {
+        "name": "AutoCAD",
+        "icon": "/images/home/education-skill/autocad-icon.png",
+        "rating": 4
+      }
+    ]
+  },
+  "contactLinks": {
+    "socialLinks": [
+      {
+        "title": "Instagram",
+        "href": "https://www.instagram.com/jshhjoshh/"
+      },
+      {
+        "title": "Facebook",
+        "href": "https://www.facebook.com/jshhjoshh/"
+      },
+      {
+        "title": "LinkedIn",
+        "href": "https://www.linkedin.com/in/josh-roque-tolentino-172315374/"
+      },
+      {
+        "title": "GitHub",
+        "href": "https://github.com/joshjoshhh"
+      }
+    ],
+    "contactInfo": [
+      {
+        "type": "gmail",
+        "label": "joshmartinroquetolentino@gmail.com",
+        "link": "mailto:joshmartinroquetolentino@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+63 926 617 6522",
+        "link": "tel:+639266176522"
+      }
+    ]
+  }
+}

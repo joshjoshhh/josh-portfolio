@@ -1,0 +1,40 @@
+{
+  "workData": [
+    {
+      "image": "/images/work/SPI_OJT.jpg",
+      "title": "Computer Engineering Practicum (OJT)",
+      "client": "Straive – SPi Global",
+      "slug": "ojt-technical-support-system-assistance"
+    },
+    {
+      "image": "/images/work/work-img-2.jpg",
+      "title": "System & Data Support Tasks",
+      "client": "Straive – SPi Global",
+      "slug": "system-data-support-tasks"
+    },
+    {
+      "image": "/images/work/work-img-3.jpg",
+      "title": "Basic Web Development (HTML & CSS)",
+      "client": "Academic & Personal Projects",
+      "slug": "basic-web-development-html-css"
+    },
+    {
+      "image": "/images/work/work-img-4.jpg",
+      "title": "Java Programming Mini Projects",
+      "client": "Academic & Personal Projects",
+      "slug": "java-programming-mini-projects"
+    },
+    {
+      "image": "/images/work/work-img-5.jpg",
+      "title": "AutoCAD Technical Drawings",
+      "client": "Academic & Personal Projects",
+      "slug": "autocad-technical-drawings"
+    },
+    {
+      "image": "/images/work/work-img-6.jpg",
+      "title": "Computer Hardware Reports & Technical Presentations",
+      "client": "Self-Initiated Technical Work",
+      "slug": "computer-hardware-reports-technical-presentations"
+    }
+  ]
+}
